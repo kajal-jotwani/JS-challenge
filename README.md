@@ -9,3 +9,7 @@ Daily Progress
 
 Day 1: Introduction to JavaScript
 Topics Covered: Variables and Datatypes
+
+
+Day 2: Operators
+Topics Covered: Arithmatic, Assignment, Comparision, Logical, Ternary Operators
