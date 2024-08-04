@@ -13,3 +13,6 @@ Topics Covered: Variables and Datatypes
 
 Day 2: Operators
 Topics Covered: Arithmatic, Assignment, Comparision, Logical, Ternary Operators
+
+Day 3: Control statements 
+Topics Covered: if-Else, nested if-Else, Switch Case, Ternary operator, Conditional conditions
