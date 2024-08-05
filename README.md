@@ -16,3 +16,7 @@ Topics Covered: Arithmatic, Assignment, Comparision, Logical, Ternary Operators
 
 Day 3: Control statements 
 Topics Covered: if-Else, nested if-Else, Switch Case, Ternary operator, Conditional conditions
+
+Day 4: Loops
+Topics Covered: For loop, While loop,
+Do..While loop, Nested loop, Loop control statements
