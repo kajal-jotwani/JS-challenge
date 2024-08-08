@@ -8,15 +8,18 @@ This repository documents my daily progress, code snippets, notes, and resources
 Daily Progress
 
 Day 1: Introduction to JavaScript
-Topics Covered: Variables and Datatypes
+Topics Covered: Variables and Datatypes.
 
 
 Day 2: Operators
-Topics Covered: Arithmatic, Assignment, Comparision, Logical, Ternary Operators
+Topics Covered: Arithmatic, Assignment, Comparision, Logical, Ternary Operators.
 
 Day 3: Control statements 
-Topics Covered: if-Else, nested if-Else, Switch Case, Ternary operator, Conditional conditions
+Topics Covered: if-Else, nested if-Else, Switch Case, Ternary operator, Conditional conditions.
 
 Day 4: Loops
 Topics Covered: For loop, While loop,
-Do..While loop, Nested loop, Loop control statements
+Do..While loop, Nested loop, Loop control statements.
+
+Day 5: Functions
+Topics Covered: Function Declaration, Function Expression, Arrow Function, Function Parameters and default values, Higher order Function.
