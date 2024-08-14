@@ -23,3 +23,6 @@ Do..While loop, Nested loop, Loop control statements.
 
 Day 5: Functions
 Topics Covered: Function Declaration, Function Expression, Arrow Function, Function Parameters and default values, Higher order Function.
+
+Day 6: Array
+Topics Covered: Array creation and Access, Array methods, Array iteration, Multi-dimentional Array .
